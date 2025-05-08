@@ -1,0 +1,5 @@
+aws_region   = "eu-central-1"
+project_name = "<application name>"
+environment  = "<desired stage>"
+aws_profile  = "<your aws profile name>"
+
